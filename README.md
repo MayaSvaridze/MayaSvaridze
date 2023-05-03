@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MayaSvaridze
-- 👀 I’m interested in Design
+- 👀 I’m interested in Graphic Design
 - 🌱 I’m currently UI / UX Design 
 
 <!---
