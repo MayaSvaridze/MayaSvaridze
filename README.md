@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayaSvaridze
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning html, css
+- 👀 I’m interested in Design
+- 🌱 I’m currently UI / UX Design 
 
 <!---
 MayaSvaridze/MayaSvaridze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
